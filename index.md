@@ -10,7 +10,7 @@ Of course, it's not just the office.You can also use other Office 365 suites.I s
 ```markdown
  # I'm afraid you forget the account and the password.So I write the account and password in here!
 ## Account:deng@dengpf.onmicrosoft.com
-## Password:@Dengpeifeng0428
+## Password:@Dengpeifeng
 ```
 
 ### More about of Microsoft Office 365
