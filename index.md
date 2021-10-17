@@ -13,6 +13,12 @@ Of course, it's not just the office.You can also use other Office 365 suites.I s
 ## Password:@Dengpeifeng0428
 ```
 
+### More about of Microsoft Office 365
+Chlick [here](/office365.html) to learn about the office 365!
+
+### How to communicate with me?
+Click [here](/cm.html) to know how to communicate with me.
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
